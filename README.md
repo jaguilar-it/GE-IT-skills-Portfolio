@@ -1,4 +1,3 @@
 # GE-IT-skills-Portfolio
 _Every Seconds Counts_
-Visuals/Social Media Graphics 1.png
-https://github.com/jaguilar-it/GE-IT-skills-Portfolio/blob/708fe4dc661a12820b6a2c88f0e276d6c1ca266b/Visuals/Social%20Media%20Graphics%202-2.png
+<img width="5987" height="1497" alt="B75FDB61-F943-466E-8321-985B0D5517FB" src="https://github.com/user-attachments/assets/96be84ae-4f41-48fd-8773-a097f52839a1" />

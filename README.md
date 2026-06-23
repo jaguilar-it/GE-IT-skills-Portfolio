@@ -5,6 +5,7 @@ _Every Seconds Counts_
 <img width="4082" height="4082" alt="1C155494-EF3F-4E9D-8571-EFD4F6C4BE6B" src="https://github.com/user-attachments/assets/c16be8de-cc46-4875-b778-28019ba6364b" />
 I choose this design becaus it reflects who I am inside. I also choose this because I can feel the warm through the designs i choose.
 
+
 The Davao Digital Governance Prompt System
 Context:
 Smallholder farmers and cooperatives in Davao del Norte and surrounding provinces are experiencing disruptions in agricultural distribution chains due to climate variability, road congestion, and intermittent transport availability along key routes such as Davao–Agusan and Davao–Cotabato corridors.
